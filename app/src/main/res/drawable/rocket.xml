@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--动画列表，onshot是否循环,false为循环-->
+<animation-list xmlns:android="http://schemas.android.com/apk/res/android"
+    android:oneshot="false">
+    <item android:drawable="@drawable/rocket_ready" android:duration="200"/>
+    <item android:drawable="@drawable/rocket_fly" android:duration="200"/>
+</animation-list>
